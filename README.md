@@ -28,3 +28,5 @@ https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-09
 https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-09-2023-U-LOLC/-/tree/main/18-NoSQL/01-Activities/24-Stu_Subdoc-Population/Solved?ref_type=heads
 
 https://stackoverflow.com/questions/72625041/mongoose-findoneandupdate-gives-different-user
+
+https://stackoverflow.com/questions/59781221/mongoose-express-how-to-properly-remove-create-store-data-that-are-referen
